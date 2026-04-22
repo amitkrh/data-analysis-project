@@ -20,6 +20,9 @@ This project analyzes H1B visa application data to identify trends, approval rat
 
 * H1B_Visa.pbix
 
+  ## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## 🚀 Skills Demonstrated
 
 * Data Cleaning
